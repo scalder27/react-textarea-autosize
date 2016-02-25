@@ -3,3 +3,4 @@ components
 example/bundle.js
 example/.git
 lib
+.idea
